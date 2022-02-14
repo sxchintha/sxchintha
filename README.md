@@ -17,7 +17,7 @@
 
   ### 🤝🏻 Find me on:
   <div>
-    <a href="https://www.linkedin.com/in/sachintha-g-400174102/">
+    <a href="https://www.linkedin.com/in/sxchintha/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/sxchintha/">
