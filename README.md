@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Hi, I'm SACHINTHA. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm SACHINTHA. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=777&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Technophile+<3+|+<Developer/>">
   
