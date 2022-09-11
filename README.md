@@ -9,9 +9,11 @@
   <img align = "left"  style="margin: 50px;" height = "500px" src="https://raw.githubusercontent.com/sxchintha/sxchintha/main/snap.png" /> 
 
   <div align="left">
-    🎓 I’m an undergraduate at <b>University of Colombo School of Computing.</b> <br>
-    🌱 BSc in Information Systems. <i>(Undergraduate)</i><br>
-    💡 I like to explore new technologies and develop software solutions. <br>
+    💻 Develop both <b>web applications & mobile applications</b>.<br>
+    🎓 <b>Software Engineering</b> undergraduate at <b>SLIIT</b>.<br>
+    🎓 Following <b>BSc. in Information Systems</b> degree program at <b>UCSC</b>.<br>
+    💡 Interested in Artificial Intelligence (AI) and Problem Solving.<br>
+    💡 I like to explore new technologies and develop software solutions. <br> 
     ⚡ Fun fact: I love music and gaming.
   </div>
 
